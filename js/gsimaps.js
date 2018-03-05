@@ -28,7 +28,7 @@ CONFIG.layersTab = [
 			'./layers_txt/layers_topic.txt',
 			'./layers_txt/layers_skhb.txt',
 			'./layers_txt/layers_topic_kusatsushirane.txt',
-			'./layers_txt/レイヤー.txt'
+			'./layers_txt/LAI.txt'
 					]
 	},
 	{
